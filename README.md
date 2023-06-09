@@ -29,3 +29,22 @@ Failure to complete the above will be treated as an incomplete submission.
 We will close out your pull request once we notice your submission and begin review as quickly as possible. 
 
 Happy coding!
+
+FEEEDBACK I GOT FROM THIS EXERCISE:
+Detailed his resume within it. 7 years C/C++ strong Data Structures and Algorithms. > No build system utilized. > C++17 
+
+Step 1 
+- warning C4244: '=': conversion from 'double' to 'T', possible loss of data 
+- - No use of smart pointers 
+- - No framework used for the unit tests + Proper virtual implementation 
+- - unused headers + Good template utilization + Good variadic usage 
+
+Step 2 
++ Referenced Microsoft documentation for API 
++ + Handled com init + Caught all leaks - No Comptrs. 
++ Jesus missed the IsInBounds directive. Caught the leaks. Good documentation citation. 
+
+Step 3 
+- Pointer Manipulation is concerning. 
+- Strange pointer usage. const & for total to necessitate the pointer instead of a simple reference.
+- This overly complicates the new functionality for no good reason.
